@@ -40,6 +40,10 @@ To setup the extension in Chrome from source (e.g. to test out local changes you
 
 ## Etc.
 
+### Issues / Questions / Contributing
+
+If you run into any issues, have questions/comments/etc., feel free to open an issue over on the [issue tracker](https://github.com/stephenmcd1/paste-as-markdown/issues).  If you'd like to contribute to this extension and have some programming prowess, feel free to submit a pull request.
+
 ### License
 
 [MIT](https://github.com/stephenmcd1/paste-as-markdown/blob/master/LICENSE)
